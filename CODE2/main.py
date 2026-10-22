@@ -1,7 +1,7 @@
 import serial, serial.tools.list_ports
 import time
 
-def prueba_de_conexion(port, baudRate = 9600):
+def prueba_de_conexion(port, baudRate = 115200):
     try:
         #Inicializar la conexión
         ser = serial.Serial(port=port, baudrate=baudRate, timeout=2)

@@ -311,6 +311,7 @@ def convertir_linea_separada_por_punto_y_coma(texto: str):
         log(
             "ERROR: Número de campos incorrecto. "
             f"Recibidos: {len(partes)} | Esperados: {numero_esperado}"
+            f"Texto: {texto!r}"
         )
         return None
 
