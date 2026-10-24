@@ -1,5 +1,6 @@
-import serial, serial.tools.list_ports
+import serial
 import time
+import Lógica.Procesar_datos as Procesar_datos
 
 def prueba_de_conexion(port, baudRate = 115200):
     try:
@@ -20,14 +21,11 @@ def prueba_de_conexion(port, baudRate = 115200):
 
     #Errores
     except serial.SerialException as e:
-        print("error de serial {e}")
+        print(f"error de serial {e}")
     except FileNotFoundError:
         print("File not found error")
     except PermissionError:
         print("Permision error")
 
-#Ver todos los puertos del ordenador
-for port in serial.tools.list_ports.comports():
-    print(f"{port.device}: {port.description}")
-
-prueba_de_conexion('COM1')
+if __name__ == "__main__":
+    print(Procesar_datos.leer_datos_esp32_prueba())
