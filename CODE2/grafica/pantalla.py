@@ -69,7 +69,7 @@ screen.setup(width=size, height=size)
 screen.tracer(0) # Se actualiza la pantalla manualmente
 
 cohete = turtle.Turtle()
-cohete.shape("circle")
+cohete.shape("turtle")
 cohete.shapesize(0.5, 0.5)
 cohete.speed(1)
 cohete.color("green")
