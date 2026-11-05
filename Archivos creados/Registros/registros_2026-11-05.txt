@@ -1,0 +1,1954 @@
+=============================================
+Empezando los registros de la primera sesión.
+=============================================
+
+[2026-11-05 19:17:18] Generando variables aleatorias.
+[2026-11-05 19:17:18] [9.184, 3.779, 0.292, -5.85, 115.92, 21.14, 158.91, 155.36, -51.450654, -62.909308, 615.26, 2065.76, 30.4, 4.0, 218.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 19:17:27] Generando variables aleatorias.
+[2026-11-05 19:17:27] [-10.958, 13.787, 9.685, -178.67, 152.97, 3.33, 184.75, 262.39, -16.711006, -178.318773, 1789.62, 4097.52, -0.0, 10.0, 213.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 20:18:44] Pintando ejes de la gráfica.
+[2026-11-05 20:18:44] 0.0 0.0
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 20:19:42] Pintando ejes de la gráfica.
+[2026-11-05 20:19:42] 0.0 0.0
+[2026-11-05 20:19:42] Largo de X: -60
+[2026-11-05 20:19:42] Largo de X: -60
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 20:21:07] Pintando ejes de la gráfica.
+[2026-11-05 20:21:07] Coordenadas de X e Y actuales: 0.0 0.0
+[2026-11-05 20:21:07] Largo de X: -60
+[2026-11-05 20:21:07] Largo de Y: -60
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 20:56:25] Se siguen leyendo los datos.
+[2026-11-05 20:56:25] Datos para la gráfica: [{'clave': 'acc_x', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_y', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_z', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'pitch', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'roll', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'yaw', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'latitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'longitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'temperatura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'estado', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'flag', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'tiempo', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}]
+[2026-11-05 20:56:25] Inicializando pantalla.
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 20:56:49] Se siguen leyendo los datos.
+[2026-11-05 20:56:49] Datos para la gráfica: [{'clave': 'acc_x', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_y', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_z', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'pitch', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'roll', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'yaw', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'latitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'longitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'temperatura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'estado', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'flag', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'tiempo', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}]
+[2026-11-05 20:56:49] Inicializando pantalla.
+[2026-11-05 20:56:49] Título de la gráfica: <bound method _Screen.title of <turtle._Screen object at 0x7f1f99e0ef90>>
+[2026-11-05 20:56:49] Tema escogido: white
+[2026-11-05 20:56:49] Cargando los sprites.
+[2026-11-05 20:56:49] Sprite cargado y cambiado de tamaño correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:49] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Sprite registrado correctamente.
+[2026-11-05 20:56:50] Pintando ejes de la gráfica.
+[2026-11-05 20:56:50] Coordenadas de X e Y actuales: 0.0 0.0
+[2026-11-05 20:56:50] Largo de X: -60
+[2026-11-05 20:56:50] Largo de Y: -60
+[2026-11-05 20:56:50] Eje creado: <turtle.Turtle object at 0x7f1f98e50050>
+[2026-11-05 20:56:50] Texto de los ejes:, <turtle.Turtle object at 0x7f1f98e50410>
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 320.0 320.0
+[2026-11-05 20:56:50] Ángulo calculado: 45.0
+[2026-11-05 20:56:50] Ángulo del sprite: 45
+[2026-11-05 20:56:50] Ángulo del sprite cambiado correctamente.
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:50] Pantalla actualizada.
+[2026-11-05 20:56:50] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:50] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:50] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:50] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:51] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:51] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:51] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:51] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:51] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:52] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:52] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:52] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:52] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:52] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Valor de X en la gráfica: 0.0
+[2026-11-05 20:56:53] Valor de Y en la gráfica: 0.0
+[2026-11-05 20:56:53] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 20:56:53] Cohete movido a: 0.0 0.0
+[2026-11-05 20:56:53] Pantalla actualizada.
+[2026-11-05 20:56:53] Se siguen leyendo los datos.
+[2026-11-05 20:56:53] Datos para la gráfica: [{'clave': 'acc_x', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_y', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_z', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'pitch', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'roll', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'yaw', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'latitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'longitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'temperatura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'estado', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'flag', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'tiempo', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}]
+[2026-11-05 20:56:53] Inicializando pantalla.
+[2026-11-05 20:56:53] Título de la gráfica: <bound method _Screen.title of <turtle._Screen object at 0x7f1f99ccca50>>
+[2026-11-05 20:56:53] Tema escogido: white
+[2026-11-05 20:56:53] Cargando los sprites.
+[2026-11-05 20:56:53] Sprite cargado y cambiado de tamaño correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Sprite registrado correctamente.
+[2026-11-05 20:56:53] Pintando ejes de la gráfica.
+[2026-11-05 20:56:53] Coordenadas de X e Y actuales: 0.0 0.0
+[2026-11-05 20:56:53] Largo de X: -60
+[2026-11-05 20:56:53] Largo de Y: -60
+[2026-11-05 20:56:53] Eje creado: <turtle.Turtle object at 0x7f1f98e53250>
+[2026-11-05 20:56:53] Texto de los ejes:, <turtle.Turtle object at 0x7f1f98e53390>
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:08:12] Generando variables aleatorias.
+[2026-11-05 21:08:12] [10.343, -1.309, -4.773, 83.14, 65.22, 240.26, 224.8, 117.53, 17.221345, 174.520036, 2627.8, 1130.97, 44.7, 9.0, 173.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:09:32] Generando variables aleatorias.
+[2026-11-05 21:09:32] [-11.277, 7.974, 4.022, -53.78, 94.76, 61.18, 31.59, 185.37, 65.408602, 35.272418, 313.55, 1591.93, 51.1, 5.0, 52.0]
+[2026-11-05 21:09:32] Se siguen leyendo los datos.
+[2026-11-05 21:09:32] Generando variables aleatorias.
+[2026-11-05 21:09:32] [12.199, 12.5, -5.409, 102.58, -57.53, 28.46, 65.23, 235.13, -82.501835, -80.608158, 2730.94, 318.51, 57.5, 0.0, 47.0]
+[2026-11-05 21:09:32] Datos para la gráfica: [{'clave': 'acc_x', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_y', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_z', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'pitch', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'roll', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'yaw', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'latitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'longitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'temperatura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'estado', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'flag', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'tiempo', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}]
+[2026-11-05 21:09:32] Inicializando pantalla.
+[2026-11-05 21:09:32] Título de la gráfica: <bound method _Screen.title of <turtle._Screen object at 0x7f8f618f8ec0>>
+[2026-11-05 21:09:32] Tema escogido: white
+[2026-11-05 21:09:32] Cargando los sprites.
+[2026-11-05 21:09:32] Sprite cargado y cambiado de tamaño correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:32] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Sprite registrado correctamente.
+[2026-11-05 21:09:33] Pintando ejes de la gráfica.
+[2026-11-05 21:09:33] Coordenadas de X e Y actuales: 0.0 0.0
+[2026-11-05 21:09:33] Largo de X: -60
+[2026-11-05 21:09:33] Largo de Y: -60
+[2026-11-05 21:09:33] Eje creado: <turtle.Turtle object at 0x7f8f61040690>
+[2026-11-05 21:09:33] Texto de los ejes:, <turtle.Turtle object at 0x7f8f61040b90>
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 320.0 320.0
+[2026-11-05 21:09:33] Ángulo calculado: 45.0
+[2026-11-05 21:09:33] Ángulo del sprite: 45
+[2026-11-05 21:09:33] Ángulo del sprite cambiado correctamente.
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:33] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:33] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:33] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:33] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:33] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:34] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:34] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:34] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:34] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:34] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:35] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:35] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:35] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:35] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:35] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Valor de X en la gráfica: 0.0
+[2026-11-05 21:09:36] Valor de Y en la gráfica: 0.0
+[2026-11-05 21:09:36] Derivadas de los componentes X e Y: 0.0 0.0
+[2026-11-05 21:09:36] Cohete movido a: 0.0 0.0
+[2026-11-05 21:09:36] Pantalla actualizada.
+[2026-11-05 21:09:36] Se siguen leyendo los datos.
+[2026-11-05 21:09:36] Generando variables aleatorias.
+[2026-11-05 21:09:36] [-5.377, 4.735, -8.357, -62.29, 163.61, 136.2, 38.06, 110.16, -70.262549, 136.197484, 1956.31, 2666.03, 50.1, 2.0, 90.0]
+[2026-11-05 21:09:36] Datos para la gráfica: [{'clave': 'acc_x', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_y', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_z', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'pitch', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'roll', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'yaw', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'latitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'longitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'temperatura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'estado', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'flag', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'tiempo', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}]
+[2026-11-05 21:09:36] Inicializando pantalla.
+[2026-11-05 21:09:36] Título de la gráfica: <bound method _Screen.title of <turtle._Screen object at 0x7f8f61f6d1d0>>
+[2026-11-05 21:09:37] Tema escogido: white
+[2026-11-05 21:09:37] Cargando los sprites.
+[2026-11-05 21:09:37] Sprite cargado y cambiado de tamaño correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Sprite registrado correctamente.
+[2026-11-05 21:09:37] Pintando ejes de la gráfica.
+[2026-11-05 21:09:37] Coordenadas de X e Y actuales: 0.0 0.0
+[2026-11-05 21:09:37] Largo de X: -60
+[2026-11-05 21:09:37] Largo de Y: -60
+[2026-11-05 21:09:37] Eje creado: <turtle.Turtle object at 0x7f8f610439d0>
+[2026-11-05 21:09:37] Texto de los ejes:, <turtle.Turtle object at 0x7f8f61043b10>
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:16:09] Generando variables aleatorias.
+[2026-11-05 21:16:09] [14.501, -11.664, -14.739, -12.64, -173.45, 235.26, 178.94, 280.94, -9.936783, 2.284978, 2421.66, 1267.73, 39.3, 1.0, 198.0]
+[2026-11-05 21:16:09] Iniciando pantalla.
+[2026-11-05 21:16:09] Inicializando pantalla.
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:21:11] Generando variables aleatorias.
+[2026-11-05 21:21:11] [9.186, 11.675, -9.434, 25.33, -69.56, 296.83, 23.91, 189.24, 20.786313, -69.731212, 940.04, 825.47, 4.7, 2.0, 207.0]
+[2026-11-05 21:21:11] Iniciando pantalla.
+[2026-11-05 21:21:11] Inicializando pantalla.
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:21:29] Generando variables aleatorias.
+[2026-11-05 21:21:29] [0.84, -2.374, 8.802, -41.1, 115.77, 195.69, 159.03, 212.85, 18.015269, 130.647382, 2809.19, 3646.66, -5.4, 3.0, 200.0]
+[2026-11-05 21:21:29] Iniciando pantalla.
+[2026-11-05 21:21:29] Inicializando pantalla.
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:22:11] Generando variables aleatorias.
+[2026-11-05 21:22:11] [4.954, 12.74, -6.581, 143.76, 134.26, 239.04, 230.24, 2.96, 53.572219, -95.551131, 938.43, 2032.64, 63.6, 8.0, 232.0]
+[2026-11-05 21:22:11] Iniciando pantalla.
+[2026-11-05 21:22:11] Actualizando los datos.
+[2026-11-05 21:22:11] Generando variables aleatorias.
+[2026-11-05 21:22:11] [-0.501, -15.294, 9.626, 119.33, 138.58, 137.52, 154.93, 201.95, 13.199627, 156.684033, 1980.07, 730.25, -12.0, 2.0, 196.0]
+[2026-11-05 21:22:11] Datos para la gráfica: [{'clave': 'acc_x', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_y', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_z', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'pitch', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'roll', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'yaw', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'latitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'longitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'temperatura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'estado', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'flag', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'tiempo', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}]
+[2026-11-05 21:22:11] Inicializando pantalla.
+[2026-11-05 21:22:11] Título de la gráfica: <bound method _Screen.title of <turtle._Screen object at 0x7f2341f89010>>
+[2026-11-05 21:22:11] Tema escogido: white
+[2026-11-05 21:22:11] Cargando los sprites.
+[2026-11-05 21:22:11] Sprite cargado y cambiado de tamaño correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Sprite registrado correctamente.
+[2026-11-05 21:22:11] Pintando ejes de la gráfica.
+[2026-11-05 21:22:11] Coordenadas de X e Y actuales: 0.0 0.0
+[2026-11-05 21:22:11] Largo de X: -60
+[2026-11-05 21:22:11] Largo de Y: -60
+[2026-11-05 21:22:11] Eje creado: <turtle.Turtle object at 0x7f23416d4690>
+[2026-11-05 21:22:11] Texto de los ejes:, <turtle.Turtle object at 0x7f23416d4b90>
+[2026-11-05 21:22:11] Pantalla actualizada.
+[2026-11-05 21:22:11] Actualizando los datos.
+[2026-11-05 21:22:11] Generando variables aleatorias.
+[2026-11-05 21:22:11] [-14.851, -3.387, 13.001, -84.41, 100.75, 199.94, 23.68, 271.15, -51.033325, -5.360849, 350.24, 2400.22, -3.3, 6.0, 106.0]
+[2026-11-05 21:22:11] Datos para la gráfica: [{'clave': 'acc_x', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_y', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'acc_z', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'pitch', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'roll', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'yaw', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'vel_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'latitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'longitud', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'altura_max', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'temperatura', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'estado', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'flag', 'valor': 0, 'minimo': 0.0, 'maximo': 0.0}, {'clave': 'tiempo', 'valor': 0.0, 'minimo': 0.0, 'maximo': 0.0}]
+[2026-11-05 21:22:11] Actualizando el sprite.
+[2026-11-05 21:22:11] Valor de X en la gráfica: 0.0
+[2026-11-05 21:22:11] Valor de Y en la gráfica: 0.0
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:23:12] Generando variables aleatorias.
+[2026-11-05 21:23:12] [13.712, 13.216, -7.797, -91.56, -163.81, 1.52, 177.71, 203.05, 41.901678, 158.708332, 1618.73, 2288.97, 51.1, 1.0, 134.0]
+[2026-11-05 21:23:12] Iniciando pantalla.
+[2026-11-05 21:23:12] Actualizando los datos.
+[2026-11-05 21:23:12] Generando variables aleatorias.
+[2026-11-05 21:23:12] [-14.961, 2.304, -9.271, -81.16, -167.81, 261.41, 37.61, 48.53, -59.773205, -30.651448, 210.68, 3141.76, 54.6, 1.0, 11.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:25:08] Generando variables aleatorias.
+[2026-11-05 21:25:08] [-6.214, -0.516, -10.384, -155.32, 51.86, 202.18, 105.63, 274.27, 76.221131, 113.784884, 1805.65, 2438.25, 22.0, 7.0, 145.0]
+[2026-11-05 21:25:08] Iniciando pantalla.
+[2026-11-05 21:25:08] Actualizando los datos.
+[2026-11-05 21:25:08] Generando variables aleatorias.
+[2026-11-05 21:25:08] [-0.35, 0.833, -7.365, -79.5, 19.8, 250.57, 114.51, 90.55, -31.04904, 0.967577, 255.25, 3758.59, 47.6, 2.0, 103.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:25:16] Generando variables aleatorias.
+[2026-11-05 21:25:16] [8.903, 10.273, 5.662, 130.28, 23.43, 75.4, 131.4, 298.77, -42.851901, 66.7473, 101.31, 840.47, 72.8, 1.0, 160.0]
+[2026-11-05 21:25:16] Iniciando pantalla.
+[2026-11-05 21:25:16] Actualizando los datos.
+[2026-11-05 21:25:16] Generando variables aleatorias.
+[2026-11-05 21:25:16] [0.951, 6.476, -11.439, 115.29, 16.01, 187.3, 186.68, 77.18, -29.057982, -1.897076, 658.97, 1958.77, 21.3, 3.0, 169.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:27:19] Generando variables aleatorias.
+[2026-11-05 21:27:19] [-4.262, 7.368, -12.683, 150.11, -143.98, 32.87, 207.42, 168.43, -61.599911, -151.932392, 2946.88, 424.98, -8.1, 0.0, 103.0]
+[2026-11-05 21:27:19] Iniciando pantalla.
+[2026-11-05 21:27:19] Actualizando los datos.
+[2026-11-05 21:27:19] Generando variables aleatorias.
+[2026-11-05 21:27:19] [-12.813, 5.664, -7.457, -46.42, 154.03, 164.07, 174.82, 246.48, 36.234314, 116.837741, 1333.79, 1693.81, 35.4, 10.0, 24.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:32:16] Generando variables aleatorias.
+[2026-11-05 21:32:16] [-4.64, -12.33, 4.95, 90.84, -67.59, 32.43, 147.05, 33.15, 46.866061, -126.203108, 224.93, 1371.81, 25.7, 5.0, 23.0]
+[2026-11-05 21:32:16] Iniciando pantalla.
+[2026-11-05 21:32:16] Actualizando los datos.
+[2026-11-05 21:32:16] Generando variables aleatorias.
+[2026-11-05 21:32:16] [-13.025, -4.151, 9.404, -117.75, -171.18, 128.04, 159.46, 144.67, 72.996108, -91.336986, 104.78, 1223.35, 5.8, 9.0, 199.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:32:21] Generando variables aleatorias.
+[2026-11-05 21:32:21] [11.922, -9.3, -7.234, 49.89, -149.42, 66.11, 18.83, 137.67, 85.1636, -146.541835, 2676.82, 3894.79, 64.9, 5.0, 158.0]
+[2026-11-05 21:32:21] Iniciando pantalla.
+[2026-11-05 21:32:21] Actualizando los datos.
+[2026-11-05 21:32:21] Generando variables aleatorias.
+[2026-11-05 21:32:21] [-14.799, -6.102, -1.452, 26.47, 10.58, 138.8, 18.31, 99.97, -56.874373, 173.758106, 388.69, 3104.13, 36.3, 7.0, 160.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:34:27] Generando variables aleatorias.
+[2026-11-05 21:34:27] [-4.861, -5.335, 4.263, 147.04, -56.08, 121.05, 156.68, 249.95, -59.399817, 118.217129, 2153.45, 661.25, 79.8, 5.0, 179.0]
+[2026-11-05 21:34:27] Iniciando pantalla.
+[2026-11-05 21:34:27] Actualizando los datos.
+[2026-11-05 21:34:27] Generando variables aleatorias.
+[2026-11-05 21:34:27] [-1.951, -5.651, 14.543, -146.06, 178.98, 207.55, 125.15, 128.84, 50.510162, -13.025132, 1566.86, 1636.31, -14.4, 5.0, 107.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:34:46] Generando variables aleatorias.
+[2026-11-05 21:34:46] [-4.912, 1.054, -7.668, -55.18, -26.64, 271.73, 196.9, 66.43, 19.645868, 67.05006, 255.37, 4939.13, 8.7, 3.0, 162.0]
+
+
+
+============================================
+Empezando los registros de una nueva sesión.
+============================================
+
+[2026-11-05 21:35:24] Generando variables aleatorias.
+[2026-11-05 21:35:24] [13.121, -3.149, 0.937, 66.4, -173.61, 23.48, 223.76, 162.28, -19.599881, -163.226352, 349.26, 4615.03, 32.4, 7.0, 204.0]
+[2026-11-05 21:35:24] Iniciando pantalla.
+[2026-11-05 21:35:24] Actualizando los datos.
+[2026-11-05 21:35:24] Generando variables aleatorias.
+[2026-11-05 21:35:24] [5.575, 8.48, 0.255, 144.82, -116.1, 122.76, 53.97, 168.96, -20.373562, -8.178864, 2338.0, 1055.09, -4.4, 9.0, 221.0]
