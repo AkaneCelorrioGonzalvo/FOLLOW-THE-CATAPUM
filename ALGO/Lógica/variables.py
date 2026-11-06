@@ -1,5 +1,13 @@
+global modo_prueba
+global log_visibilidad
+global continuar_leyendo_datos
+global rangos_variables_aleatorias
+global variables_separadas
+global SENSORES_TELEMETRIA
+
 modo_prueba = True
 log_visibilidad = True
+continuar_leyendo_datos = True
 
 # El formato era: acc_x;acc_y;acc_z;pitch;roll;yaw;vel;vel_max;latitud;longitud;altura;altura_max;temperatura;estado;flag
 
@@ -35,122 +43,174 @@ SENSORES_TELEMETRIA = [
         "texto": "ACC X [G]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 3,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "acc_y",
         "texto": "ACC Y [G]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 3,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "acc_z",
         "texto": "ACC Z [G]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 3,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "pitch",
         "texto": "PITCH [°]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 2,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "roll",
         "texto": "ROLL [°]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 2,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "yaw",
         "texto": "YAW [°]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 2,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "vel",
         "texto": "VEL [m/s]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 2,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "vel_max",
         "texto": "VEL MAX [m/s]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 2,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "latitud",
         "texto": "LAT [°]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 6,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "longitud",
         "texto": "LON [°]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 6,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "altura",
         "texto": "ALTURA [m]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 2,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "altura_max",
         "texto": "ALTURA MAX [m]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 2,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "temperatura",
         "texto": "TEMP [°C]",
         "ruta_icono": None,
         "tipo_variable": "float",
-        "valor_inicial": 0.0,
+        "valor": 0.0,
         "decimales": 1,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "estado",
         "texto": "ESTADO",
         "ruta_icono": None,
         "tipo_variable": "int",
-        "valor_inicial": 0,
+        "valor": 0,
         "decimales": 0,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
     {
         "clave": "flag",
         "texto": "FLAG",
         "ruta_icono": None,
         "tipo_variable": "int",
-        "valor_inicial": 0,
+        "valor": 0,
         "decimales": 0,
+        "minimo": 0.0,
+        "maximo": 0.0,
+    },
+    {
+        "clave": "tiempo",
+        "texto": "TIEMPO",
+        "ruta_icono": None,
+        "tipo_variable": "float",
+        "valor": 0.0,
+        "decimales": 3,
+        "minimo": 0.0,
+        "maximo": 0.0,
     },
 ]
+# Ahora que uso un diccionario estarás feliz
 
+def agregar_datos_numericos_al_diccionario(): # Y de paso actualiza los máximos y mínimo
+    global variables_separadas
+    for sensor, nuevo_valor in zip(SENSORES_TELEMETRIA, variables_separadas):
+        sensor["valor"] = nuevo_valor
+        if sensor["valor"] < sensor["minimo"]:
+            sensor["minimo"] = sensor["valor"]
+        if sensor["valor"] > sensor["maximo"]:
+            sensor["maximo"] = sensor["valor"]
+     
 
-CLAVES_SENSORES_TELEMETRIA = [sensor["clave"] for sensor in SENSORES_TELEMETRIA]
+global variables_escogidas_para_la_grafica
+variables_escogidas_para_la_grafica = ["acc_x", "acc_y"] # por el momento
+# Se hará con un handler en un botón y blah blah blah

@@ -49,6 +49,7 @@ def leer_datos_ESP32(conexion_serial, seguir_leyendo_datos):
 def procesar_datos_ESP32(texto, numero_de_variables_emitidas):
     log("Tratando de procesar los datos.")
 
+    global variables_separadas
     variables_separadas = texto.split(';')
     log(variables_separadas)
 
@@ -81,7 +82,3 @@ def asignar_nombre_a_cada_variable_separada(variable, i, listado_nombre_variable
 
     # Hay que actualizar esto para que sea un diccionario
     
-
-variables_separadas = 
-    
-
