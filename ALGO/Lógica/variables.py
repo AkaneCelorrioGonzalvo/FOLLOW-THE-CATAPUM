@@ -5,6 +5,7 @@ global rangos_variables_aleatorias
 global variables_separadas
 global SENSORES_TELEMETRIA
 
+
 modo_prueba = True
 log_visibilidad = True
 continuar_leyendo_datos = True
@@ -201,15 +202,8 @@ SENSORES_TELEMETRIA = [
 ]
 # Ahora que uso un diccionario estarás feliz
 
-def agregar_datos_numericos_al_diccionario(): # Y de paso actualiza los máximos y mínimo
-    global variables_separadas
-    for sensor, nuevo_valor in zip(SENSORES_TELEMETRIA, variables_separadas):
-        sensor["valor"] = nuevo_valor
-        if sensor["valor"] < sensor["minimo"]:
-            sensor["minimo"] = sensor["valor"]
-        if sensor["valor"] > sensor["maximo"]:
-            sensor["maximo"] = sensor["valor"]
-     
+variables_separadas = []
+
 
 global variables_escogidas_para_la_grafica
 variables_escogidas_para_la_grafica = ["acc_x", "acc_y"] # por el momento

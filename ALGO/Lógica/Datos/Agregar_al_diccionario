@@ -1,0 +1,21 @@
+import sys
+from pathlib import Path
+
+
+# Para importar las cosas (¡¿Por qué es tan complicado en Python?!😭)
+root_dir = Path(__file__).resolve().parents[2]    # Para cosas en ALGO
+if str(root_dir) not in sys.path:
+    sys.path.insert(0, str(root_dir))
+
+from Lógica.Registros.log import log
+from Lógica.variables import *
+
+
+def agregar_datos_numericos_al_diccionario(): # Y de paso actualiza los máximos y mínimo
+    for sensor, nuevo_valor in zip(SENSORES_TELEMETRIA, variables_separadas):
+        sensor["valor"] = nuevo_valor
+        if sensor["valor"] < sensor["minimo"]:
+            sensor["minimo"] = sensor["valor"]
+        if sensor["valor"] > sensor["maximo"]:
+            sensor["maximo"] = sensor["valor"]
+    log("Datos numéricos agregados al diccionario.")

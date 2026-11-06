@@ -13,12 +13,10 @@ root_dir = Path(__file__).resolve().parents[2]    # Para cosas en ALGO
 if str(root_dir) not in sys.path:
     sys.path.insert(0, str(root_dir))
 
-# from Lógica.Registros.log import log
 from Lógica.Registros.log import log
-
 from Lógica.variables import *
 from Lógica.Modos.Modo_prueba import generar_valores_de_variables_aleatorios
-# lazy from Modos.Modo_serial import 
+from Lógica.Datos.Agregar_al_diccionario import agregar_datos_numericos_al_diccionario
 
 """
 if (Lógica.variables.modo_prueba == True):

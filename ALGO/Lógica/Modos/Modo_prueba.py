@@ -12,7 +12,6 @@ from Lógica.Registros.log import log
 
 def generar_valores_de_variables_aleatorios():
     log("Generando variables aleatorias.")
-    global variables_separadas
     variables_separadas = []
     for (minimo, maximo), decimales in rangos_variables_aleatorias:
         valor = round(random.uniform(minimo, maximo), decimales)
